@@ -25,7 +25,7 @@ def logo():
 	print("\033[0;92m")
 	os.system("clear")
 	time.sleep(0.5)
-	logopsb(" ________              .__ n\______ \   _______  _|__|n|    |  \_/ __ \  \/ /  |n|    `   \  ___/\   /|  |n/_______  /\___  >\_/ |__| n       \/     \/          ")
+	logopsb("                        ooo.                  o 8  `8.                  8   `8 .oPYo. o    o o8 8    8 8oooo8 Y.  .P  8 8   .P 8.     `b..d'  8 8ooo'  `Yooo'  `YP'   8 .....:::.....:::...:::..::::::::::::::::::::::::::::::::::::::::::::::::")
 	logopsb("\033[3;90m			A Product Of Devi Don\033[0;92m")
 	time.sleep(0.6)
 	logopsb("\033[34m\n|****************************************************| \n|\033[3m Author   : Mr Devi                               \033[0;34m|\n|\033[3m Tool     : deviURL	    	                     \033[0;34m|\n|\033[3m Version  : 1.0                                     \033[0;34m|\n|\033[3m Link     : https://www.github.com/devixaayat/	     \033[0;34m|\n|\033[3m Coded By : mr devi      		     	     \033[0;34m|\n******************************************************")
